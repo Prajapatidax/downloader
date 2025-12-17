@@ -36,14 +36,15 @@ This project is focused purely on video content with a fast and clean download e
 ## 📂 Project Structure
 
 Downloader/
-  │
-├── index.html 
-├── style.css  
-├── app.py 
-└── README.md
+-│
+-├── index.html 
+-├── style.css  
+-├── app.py 
+-└── README.md
 
 
 ⚠️ Disclaimer
 This project is built for educational purposes only.
 Users must follow Instagram and YouTube terms of service.
 Downloading copyrighted content without permission may violate platform policies.
+
