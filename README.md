@@ -24,27 +24,28 @@ This project is focused purely on video content with a fast and clean download e
 
 ### Frontend
 - HTML5  
-- CSS3 / Tailwind CSS  
+- CSS3  
 - JavaScript  
 
 ### Backend
-- Python /
-*(Uses video extraction logic or libraries)*
+- Python 
+*(yt-dlp)*
 
 ---
 
 ## 📂 Project Structure
 
 Downloader/
--│
--├── index.html 
--├── style.css  
--├── app.py 
--└── README.md
+│<br>
+├── index.html (js included)<br>
+├── style.css  <br>
+├── app.py <br>
+└── README.md<br>
 
 
 ⚠️ Disclaimer
 This project is built for educational purposes only.
 Users must follow Instagram and YouTube terms of service.
 Downloading copyrighted content without permission may violate platform policies.
+
 
