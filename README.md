@@ -35,8 +35,7 @@ This project is focused purely on video content with a fast and clean download e
 
 ## 📂 Project Structure
 
-Downloader/
-    │<br>
+Downloader/<br>
     ├── index.html <br>
     ├── style.css  <br>
     ├── app.py <br>
@@ -47,6 +46,7 @@ Downloader/
 This project is built for educational purposes only.
 Users must follow Instagram and YouTube terms of service.
 Downloading copyrighted content without permission may violate platform policies.
+
 
 
 
